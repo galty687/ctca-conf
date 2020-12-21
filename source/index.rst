@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-2020年中国技术传播论坛
+2020年中国技术传播论坛会议手册
 =====================================
-（会议手册）
+（动态更新中）
 ----------------
 
 
