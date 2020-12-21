@@ -20,3 +20,8 @@
 
 .. image:: dlc.png
    :width: 200pt
+
+
+请 点击此处_ 注册会议，方便收到后续其他分论坛的参会方式。  
+
+.. _点击此处: http://pkutc-training.mikecrm.com/R05q1J9
