@@ -55,11 +55,15 @@
 
 中国技术传播联盟
 
+----
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 分论坛:
 
    DocsLikeCode/dlc.rst
+   UX/hci.rst
+   medical_writing/medical.rst
 
 .. toctree::
    :maxdepth: 2
@@ -67,6 +71,7 @@
 
    conference/panel.rst
    conference/speaker.rst
+   
 
 
 

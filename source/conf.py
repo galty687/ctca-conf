@@ -31,7 +31,8 @@ release = '2020'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.githubpages'
+    'sphinx.ext.githubpages',
+    'sphinxcontrib.googleanalytics'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -63,3 +64,6 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 
+#Google Analytics
+
+googleanalytics_id = 'UA-45957014-6'
