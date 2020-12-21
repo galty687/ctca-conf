@@ -15,12 +15,12 @@
 *Driving Global Growth of Mobile Products with Culturally Sustaining Design*
 
 - Huatong Sun, PhD
-- University of Washitong Tacoma
+- University of Washington Tacoma
 
 
 *A New Paradigm of Human Computer Interaction: Human-AI Collaboration*
 
-- Dakuo Wang
+- Dakuo Wang, PhD
 - IBM Waston
 
 
