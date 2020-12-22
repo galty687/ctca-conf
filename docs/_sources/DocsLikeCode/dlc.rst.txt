@@ -57,6 +57,11 @@ PingCAP 文档代码化开发分享
 讲座介绍：
    本部为入门教程，将从零开始演示如何使用sphinx进行文档代码化的开发实践。
 
+演示素材：
+   - 链接：https://pan.baidu.com/s/1o-kFuIOjaso6ECyKOYGVHQ 
+   - 提取码：sqs8 
+
+
 ----
 
 .. image:: dlc.png
