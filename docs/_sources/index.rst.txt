@@ -22,7 +22,7 @@
 
 二、分论坛
 
- - 技术写作能力评定与认证
+ - 技术写作能力评估与认证
  - 文档代码化开发
  - 跨文化与交互设计
  - 医学/医疗文档写作
@@ -65,6 +65,7 @@
    DocsLikeCode/dlc.rst
    UX/hci.rst
    medical_writing/medical.rst
+   certificates/certificates.rst
 
 .. toctree::
    :maxdepth: 2
