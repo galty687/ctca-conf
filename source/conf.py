@@ -67,3 +67,5 @@ html_static_path = ['_static']
 #Google Analytics
 
 googleanalytics_id = 'UA-45957014-6'
+
+
