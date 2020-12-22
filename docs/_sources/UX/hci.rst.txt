@@ -49,7 +49,9 @@ Dakuo Wang, PhD
 
     Dakuo Wang now serves in ACM SIGCHI China Chapter as a Vice-President, and International Chinese Association of CHI (ICACHI) steering commitee 2018-2022, as well as in Program Committee for various SIGCHI-sponsored conferences. ACM has recognized Dakuo Wang as an ACM Distinguished Speaker in 2019.
 
+----
 
+爱丁堡大学 Maria Wolters 老师将在圣诞节后分享，具体时间另行通知。
 
 请 点击此处_ 注册会议，方便收到后续其他分论坛的参会方式。  
 
