@@ -51,7 +51,18 @@ Dakuo Wang, PhD
 
 ----
 
-爱丁堡大学 Maria Wolters 老师将在圣诞节后分享，具体时间另行通知。
+题目待定
+-------------------
+
+.. image:: profiles/maria.jpeg
+   :width: 60pt
+
+Dr Maria Wolters, Reader in Design Informatics
+
+    Dr Maria Wolters is Reader in Design Informatics, School of Informatics, and Academic Associate, School of Philosophy, Psychology, and Language Sciences, University of Edinburgh, and a Fellow of the Alan Turing Institute for Data Science. Her research focuses on supporting people with chronic illness to live rich and meaningful lives. Maria has published over 80 peer reviewed papers and has been PI or Researcher Co-I on grants funded by the EPSRC, European Union, and Leverhulme Trust. She is Programme Director of the MSc and Advanced MSc in Design Informatics.
+
+
+**爱丁堡大学 Maria Wolters 老师将在圣诞节后分享，具体时间另行通知。**
 
 请 点击此处_ 注册会议，方便收到后续其他分论坛的参会方式。  
 
