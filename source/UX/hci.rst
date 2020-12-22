@@ -37,9 +37,18 @@
 ####
 
 *A New Paradigm of Human Computer Interaction: Human-AI Collaboration*
+--------------------------------------------------------------------------------------------
 
-- Dakuo Wang, PhD
-- IBM Waston
+.. image:: profiles/dakuo.jpeg
+   :width: 60pt
+
+Dakuo Wang, PhD
+    Dakuo Wang is a Research Scientist at IBM Research AI, based in Cambridge Massachusetts. His research lies in the intersection between human-computer interaction (HCI) and artificial intelligence (AI). He is now leading a team of researchers, engineers, and designers to conduct research and design user experience for IBM AutoAI, a solution to automate the end-to-end machine learning pipeline. Outside his IBM work, Dakuo is also interested in how people work with real-world AI applications, such as conversational agents (Chatbots), and clinical decision support systems (CDSS), and he collaborates with various universities to study it. He proposes “Human-AI Collaboration” as a new framework to study and design AI systems to work together with humans.
+
+    Before joining IBM Research, Dakuo Wang got his Ph.D. and M.S. in Information and Computer Science from the University of California Irvine, a Diplôme d’Ingénieur (M.S.) in Information System from École Centrale d’Électronique Paris, and a B.S. in Computer Science from Beijing University of Technology. He has worked as an engineer, designer, and researcher in France, China, and the United States.
+
+    Dakuo Wang now serves in ACM SIGCHI China Chapter as a Vice-President, and International Chinese Association of CHI (ICACHI) steering commitee 2018-2022, as well as in Program Committee for various SIGCHI-sponsored conferences. ACM has recognized Dakuo Wang as an ACM Distinguished Speaker in 2019.
+
 
 
 请 点击此处_ 注册会议，方便收到后续其他分论坛的参会方式。  
