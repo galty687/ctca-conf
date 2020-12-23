@@ -61,7 +61,7 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: 分论坛:
+   :caption: 分论坛
 
    DocsLikeCode/dlc.rst
    UX/hci.rst
@@ -72,7 +72,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 大会组织:
+   :caption: 大会组织
 
    conference/panel.rst
    conference/speaker.rst
