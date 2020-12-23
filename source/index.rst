@@ -66,8 +66,9 @@
    DocsLikeCode/dlc.rst
    UX/hci.rst
    medical_writing/medical.rst
-   certificates/certificates.rst
    translation/tw.rst
+   certificates/certificates.rst
+   
 
 .. toctree::
    :maxdepth: 2
