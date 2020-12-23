@@ -67,6 +67,7 @@
    UX/hci.rst
    medical_writing/medical.rst
    certificates/certificates.rst
+   translation/tw.rst
 
 .. toctree::
    :maxdepth: 2
