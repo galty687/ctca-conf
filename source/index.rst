@@ -68,10 +68,15 @@
    medical_writing/medical.rst
    translation/tw.rst
    certificates/certificates.rst
-   
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: 技术传播贡献奖
+
+   conference/awards.rst
+
+.. toctree::
+   :maxdepth: 1
    :caption: 大会组织
 
    conference/panel.rst
