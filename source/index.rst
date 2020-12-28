@@ -69,7 +69,7 @@
    UX/hci.rst
    medical_writing/medical.rst
    translation/tw.rst
-   certificates/certificates.rst
+   certificates/certification.rst
    tools/tools.rst
 
 .. toctree::
