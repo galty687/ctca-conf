@@ -23,12 +23,13 @@
 
 二、分论坛
 
- - 技术写作能力评估与认证
+ 
  - 文档代码化开发
  - 跨文化与交互设计
  - 医疗文档写作
- - 视频说明书
- - 工具展示
+ - 技术翻译与技术写作
+ - 技术写作能力评估与认证
+ - 技术写作工具与未来趋势
 
 三、技术传播奖颁奖与闭幕
 
@@ -69,6 +70,7 @@
    medical_writing/medical.rst
    translation/tw.rst
    certificates/certificates.rst
+   tools/tools.rst
 
 .. toctree::
    :maxdepth: 1
