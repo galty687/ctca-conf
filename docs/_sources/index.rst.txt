@@ -62,6 +62,12 @@
 
 .. toctree::
    :maxdepth: 1
+   :caption: 开幕
+
+   conference/opening.rst
+
+.. toctree::
+   :maxdepth: 1
    :caption: 分论坛
    :glob:
 
