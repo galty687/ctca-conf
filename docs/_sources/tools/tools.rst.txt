@@ -50,7 +50,7 @@ Brian Buehling
     
     本演讲概述了明年有可能推动内容交付系统变化的技术趋势。 我们将逐一分析每个结构成分，从内容创建、工作流程控制、文档存储直到在线发布。
 
-:download:`Top_Trends_Technical_Content_Delivery_Chinese_English_Brian_Buehling.pdf <Top_Trends_Technical_Content_Delivery_Chinese_English_Brian_Buehling.pdf>`
+:download:`Top Trends.pdf <Top_Trends_Technical_Content_Delivery_Chinese_English_Brian_Buehling.pdf>`
 
 ####
 
