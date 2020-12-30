@@ -61,9 +61,15 @@ SDL Tridion
 
    <iframe src="//player.bilibili.com/player.html?aid=800851502&bvid=BV1Hy4y1e7G7&cid=272723817&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+
+
 视频点播
-    #. 链接：https://pan.baidu.com/s/1EiabzFfDhv2Y47gs-Anviw
-    #. 提取码：bix3
+    #. `tridion-docs-draft-space-product-demo-sdl-en <https://v.qq.com/x/page/t3217wmeh54.html>`_.
+    #. `tridion-docs-review-space-product-demo-sdl-en <https://v.qq.com/x/page/s32170dk9ka.html>`_.
+    #. `tridion-docs-collective-spaces-product-demo-sdl-en <https://v.qq.com/x/page/l32176fb1t9.html>`_.
+    #. `tridion-docs-document-history-product-demo-sdl-en <https://v.qq.com/x/page/d3217b79ro3.html>`_.
+    #. `tridion-docs-translation-organiser-product-demo-sdl-en <https://v.qq.com/x/page/c32177qj860.html>`_.
+
 
 ####
 
