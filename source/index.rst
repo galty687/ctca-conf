@@ -84,6 +84,7 @@
    :glob:
 
    conference/awards.rst
+   conference/winners.rst
 
 .. toctree::
    :maxdepth: 1
