@@ -40,6 +40,40 @@
         <script src="../_static/jquery.js"></script>
         <script src="../_static/underscore.js"></script>
         <script src="../_static/doctools.js"></script>
+        <script kind="utterances">
+
+    var commentsRunWhenDOMLoaded = cb => {
+    if (document.readyState != 'loading') {
+        cb()
+    } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', cb)
+    } else {
+        document.attachEvent('onreadystatechange', function() {
+        if (document.readyState == 'complete') cb()
+        })
+    }
+}
+
+var addUtterances = () => {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://utteranc.es/client.js";
+    script.async = "async";
+
+    script.setAttribute("repo", "galty687/ctca-conf");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "💬 comment");
+    script.setAttribute("crossorigin", "anonymous");
+
+    sections = document.querySelectorAll("div.section");
+    if (sections !== null) {
+        section = sections[sections.length-1];
+        section.appendChild(script);
+    }
+}
+commentsRunWhenDOMLoaded(addUtterances);
+</script>
         <script src="../_static/translations.js"></script>
     
     <script type="text/javascript" src="../_static/js/theme.js"></script>
@@ -48,7 +82,7 @@
     <link rel="index" title="索引" href="../genindex.html" />
     <link rel="search" title="搜索" href="../search.html" />
     <link rel="next" title="演讲嘉宾注意事项" href="speaker.html" />
-    <link rel="prev" title="关于征集2020年技术传播奖项侯选人的通知" href="awards.html" /> 
+    <link rel="prev" title="2020年中国技术传播贡献奖获奖名单" href="winners.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -93,17 +127,23 @@
               
             
             
-              <p class="caption"><span class="caption-text">分论坛</span></p>
+              <p class="caption"><span class="caption-text">开幕</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="opening.html">论坛开幕</a></li>
+</ul>
+<p class="caption"><span class="caption-text">分论坛</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../DocsLikeCode/dlc.html">分论坛：文档代码化</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../UX/hci.html">分论坛：跨文化与交互设计</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../medical_writing/medical.html">分论坛：医疗文档写作</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../translation/tw.html">分论坛：技术翻译与技术写作</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../certificates/certificates.html">分论坛：技术写作能力评估与认证</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../certificates/certification.html">分论坛：技术写作能力评估与认证</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tools/tools.html">分论坛：技术写作工具与未来趋势</a></li>
 </ul>
 <p class="caption"><span class="caption-text">技术传播贡献奖</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="awards.html">关于征集2020年技术传播奖项侯选人的通知</a></li>
+<li class="toctree-l1"><a class="reference internal" href="winners.html">2020年中国技术传播贡献奖获奖名单</a></li>
 </ul>
 <p class="caption"><span class="caption-text">大会组织</span></p>
 <ul class="current">
@@ -230,7 +270,7 @@
         <a href="speaker.html" class="btn btn-neutral float-right" title="演讲嘉宾注意事项" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="awards.html" class="btn btn-neutral float-left" title="关于征集2020年技术传播奖项侯选人的通知" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="winners.html" class="btn btn-neutral float-left" title="2020年中国技术传播贡献奖获奖名单" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   

@@ -33,8 +33,10 @@ release = '2020'
 extensions = [
     'sphinx.ext.githubpages',
     'sphinxcontrib.googleanalytics',
-    'sphinx.ext.todo' 
+    'sphinx.ext.todo',
+    'sphinx_comments'
 ]
+
 todo_include_todos=True
 
 # Add any paths that contain templates here, relative to this directory.
@@ -71,3 +73,11 @@ html_static_path = ['_static']
 googleanalytics_id = 'UA-45957014-6'
 
 
+#Utterance Comments
+
+comments_config = {
+   "utterances": {
+      "repo": "galty687/ctca-conf",
+      "optional": "config",
+   }
+}
