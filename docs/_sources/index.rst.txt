@@ -92,6 +92,7 @@
 
    conference/panel.rst
    conference/speaker.rst
+   conference/recordings.rst
    
 
 
