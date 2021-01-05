@@ -82,3 +82,13 @@ comments_config = {
       
    }
 }
+
+#Enbale gif rendering
+
+from sphinx.builders.html import StandaloneHTMLBuilder
+StandaloneHTMLBuilder.supported_image_types = [
+    'image/svg+xml',
+    'image/gif',
+    'image/png',
+    'image/jpeg'
+]

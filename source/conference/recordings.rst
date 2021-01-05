@@ -31,6 +31,9 @@
         :width: 60pt
 
 #. 输入加课码（付费用户已通过邮件和短信告知）
+    .. image:: images/add-course.gif
+        :width: 200pt
+        
 
 
 ####
@@ -39,10 +42,12 @@
 =============================
 
 #. 点击课堂区中“资料”按钮
+
     .. image:: images/recording-ziliao.png
-     :width: 600pt
-     :align: left
+     :width: 400pt
+
      
+
 #. 点击各分论坛的文件夹；
 #. 选择需要观看的视频进行查看（陆续上传中，2020年1月8日前上传完）
 
