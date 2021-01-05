@@ -92,3 +92,6 @@ StandaloneHTMLBuilder.supported_image_types = [
     'image/png',
     'image/jpeg'
 ]
+
+#Remove View page source
+html_show_sourcelink = False
