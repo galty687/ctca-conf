@@ -94,8 +94,12 @@
    conference/speaker.rst
    conference/recordings.rst
    
+.. toctree::
+   :maxdepth: 1
+   :caption: 大会合作伙伴
+   :glob:
 
-
+   conference/maxsun.rst
 
 关键词
 ==================
